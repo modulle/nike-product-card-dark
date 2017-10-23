@@ -1,0 +1,215 @@
+body{
+	background: #000 url(../img/main.jpg) no-repeat 40%;
+	background-size: cover;
+	color: #e1e1e1;
+	font: 400 14px/1.4 Raleway, sans-serif;
+
+}
+
+.ba-container{
+	max-width: 800px;
+	padding: 109px 52px 100px 63px;
+	max-height: 350px;
+}
+
+.ba-form-addto-cart {
+	margin: 0;
+	padding-top: 34px;
+	padding-left: 0px;
+}
+.ba-product {
+	background: #111a28;
+	border-radius: 10px;
+	padding: 20px;
+
+}
+
+.ba-product_body{
+	float: left;
+	width: 35%;
+}
+
+.ba-product_title {
+	margin-top: 13px;
+	margin-left: 3px;
+	font-size: 24px;/* Приближение из-за подстановки шрифтов */
+	line-height: 26px;/* Приближение из-за подстановки шрифтов */
+	text-align: left;
+	margin: 0;
+	padding-top: 14px;
+	padding-left: 3px;
+}
+
+.ba-product_rating {
+	margin-left: 3px;
+	margin-bottom: 2px;
+	margin: 0;
+	padding-top: 16px;
+	padding-left: 2px;
+}
+
+.ba-shoe {
+	margin-left: 3px;
+	margin-bottom: 26px;
+	font-size: 14px;/* Приближение из-за подстановки шрифтов */
+	line-height: 26px;/* Приближение из-за подстановки шрифтов */
+	text-align: left;
+	margin: 0;
+	padding-left: 2px;
+	padding-top: 2px;
+
+}
+
+
+
+.ba-slider{
+	width: 65%;
+	float: left;
+	padding: 64px 40px 5px 15px;
+}
+
+
+}
+
+.ba-header {
+	padding-top: 4px;
+}
+
+
+.ba-radio{
+	padding-left: 144px;
+	width: 100%;
+	padding-top: 63px;
+	letter-spacing: 2px;
+}
+
+.label_3{
+	background: #ed3333;
+
+}
+.label_3{
+	background: #ed3333;
+
+}
+.label_4{
+	background: #29e3ea;
+}
+
+label{
+	background: white;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	display: inline-block;
+	cursor: pointer;
+	position: relative;
+
+}
+input[type="radio"]{
+	display: none;
+}
+
+input[type="radio"]:checked + label{
+	background: #1f273f;
+	border: 1px solid white;
+	width: 15px;
+	height: 15px;
+}
+
+.ba-but1, .ba-but2 {
+	border-width: 1px;
+	border-color:  #ffffff;
+	border-style: solid;
+	background-color:  #111a28;
+	opacity: 0.26;
+	width: 67px;
+	height: 30px;
+	display: block;
+	display: inline-block;
+	margin: 0;
+	margin-left: -23px;
+	margin-top: -15px;
+	padding-top: 13px;
+
+
+
+}
+
+.ba3 {
+	padding-left:28px;
+	margin-top: 4px;
+padding-top: 5px;
+}
+
+.ba-star {
+	color: #f7bf16;
+font-style: normal;
+}
+.ba-star2{
+	color: none;
+	font-style: normal;
+}
+.ba-but3 {
+	// background-color: #202835;
+	border-width: 1px;
+	border-color:  #ffffff;
+	border-style: solid;
+	background-color:  #4c525a;
+	opacity: 0.26;
+	width: 182px;
+	height: 38px;
+	margin-top: 22px;
+	margin-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+/* Typography */
+// a,
+// input[type="submit"],
+// input[type="button"],
+// button{
+// 	transition: color .3s ease-in, border-color .3s ease-in, background-color .3s ease-in, opacity .3s ease-in;
+// }
+// input[type="submit"],
+// input[type="button"],
+// button,
+// .ba-button{
+// 	display: inline-block;
+// }
+// input[type="submit"]:hover,
+// input[type="button"]:hover,
+// button:hover,
+// .ba-button:hover{
+
+// }
+
+// input[type="text"],
+// input[type="email"],
+// input[type="password"],
+// input[type="number"],
+// input[type="tel"],
+// textarea,
+// select {
+// 	transition: color .3s ease-in, border-color .3s ease-in, background-color .3s ease-in, opacity .3s ease-in;
+// }
+
+// input[type="text"]:focus,
+// input[type="email"]:focus,
+// input[type="password"]:focus,
+// input[type="number"]:focus,
+// input[type="tel"]:focus,
+// textarea:focus,
+// select:focus {
+
+// }
+// textarea {
+
+// }
